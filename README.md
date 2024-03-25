@@ -8,6 +8,7 @@ Analyzing wine reviews dataset to uncover insights about wine quality, regional 
 ## Project Scope
 We use Wine Reviews Data 
 > https://www.kaggle.com/datasets/zynicide/wine-reviews
+
 From there for our analysis we take Country, Description, Points, Price, and Variety as main variables of interest.
 In most plots we consider best wines to have mean points >= 95.
 The worst wines presented in this dataset have mean points >= 80 and <=85.
