@@ -14,10 +14,10 @@ The worst wines presented in this dataset have mean points >= 80 and <=85.
 For more detailed analysis of wine production in specific countries we take Europe as object of study, but for main plots we consider the whole world.
 
 ## Goals
-> Identifying popular wine varieties and their characteristics.
-> Analyzing the relationship between wine quality ratings and prices.
-> Examining wine quality for each country and defining locations of best wines.
-> Understanding how wine description differes depending on good or (relatively) bad wines are observed.
+- Identifying popular wine varieties and their characteristics.
+- Analyzing the relationship between wine quality ratings and prices.
+- Examining wine quality for each country and defining locations of best wines.
+- Understanding how wine description differes depending on good or (relatively) bad wines are observed.
 
 ## Approach
 > Exploratory data analysis (EDA) to understand the structure and patterns in the data.
