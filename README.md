@@ -1,9 +1,9 @@
 # TechLabsDUS_WineNot?
 Nov2023-March2024
-This GitHub Repository is for educational purposes. 
-It was created to help understanding the basics of coding in python and get familiar with data science structures and strategics. Therefore, an implemented dataset was selected, to help unterstanding and improving. 
-https://github.com/dilara444/TechLabsDUS_WineNot.git
+
+Welcome to our 'WineNot?' GitHub Repository! This project serves as an educational resource for individuals interested in learning fundamental coding concepts using Python. Whether you’re a beginner or an experienced programmer, this repository aims to provide clarity on some data science structures and strategies. Therefore, an implemented dataset was selected, to help unterstanding and improving. 
 > GitHub Link
+https://github.com/dilara444/TechLabsDUS_WineNot.git
 
 > For inspiration and motivation: https://open.spotify.com/track/4uOKFydzAejjSFqYbv1XPt?si=6a240536f0de4cdc
 
@@ -11,17 +11,21 @@ https://github.com/dilara444/TechLabsDUS_WineNot.git
 Analyzing wine reviews dataset to uncover insights about wine quality, regional preferences, and pricing trends. Understand what characteristics define a wine as high-quality and tasty. Visualization of various factors that distinguish corresponding wine varieties. 
 
 ## Project Scope
-We use Wine Reviews Data 
+
+The overall scope of this project consists of education, data science exploration and hands-on learning.
+With this, we gained insights into Python programming fundamentals, familiarized ourselfs with essential data science concepts, and interacted with an implemented dataset to enhance your understanding and skills.
+
+We used the Wine Reviews Data Set:
 > https://www.kaggle.com/datasets/zynicide/wine-reviews
 
 The scope of this project was to get an inside about some characteristics of different wine types all over the world. 
-From there for our analysis we took Country, Description, Points, Price, and Variety as main variables of interest. This dataset showed interests of different insides to wine types from different countries. Besides the very obvious connection between wine origin and respective rating of this, other characteristics such as taste desription and price did contribute to a deeper understanding of both economical and physiological composition of wines. 
+From there for our analysis we took Country, Description, Points, Price, and Variety as main variables of interest. This dataset showed interests of different insides to wine types from different countries. Besides the very obvious connection between the ratings and respective prices of this, other characteristics such as taste desription and wine origin did contribute to a deeper understanding of both economical and physiological composition of wines. 
 
 ## Goals
 - Identifying popular wine varieties and their characteristics.
 - Analyzing the relationship between wine quality ratings and prices.
 - Examining wine quality for each country and defining locations of best wines.
-- Understanding how wine description differes depending on good or (relatively) bad wines are observed.
+- Understanding how wine description differs depending on good or (relatively) bad wines are observed.
 
 ## Approach
 - Exploratory data analysis (EDA) to understand the structure and patterns in the data.
@@ -50,7 +54,8 @@ online at https://docs.scipy.org.
 - Insights into wine preferences and market peculiarities for wine producers and distributors.
 - Recommendations for consumers based on wine price, quality, taste, and country characteristics.
 - Contribution to the broader wine community by sharing knowledge and insights gained from the analysis.
-
+- Analysis contributes to understanding of various connections between wine origin, taste, price and so much more.
+- For further analysis, predictions on the connection between price, taste and rating of wines can be considered. 
 
 
 Our journey startet first with the physiochemical quality description of red wines in the south of europe, which we 
