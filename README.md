@@ -9,7 +9,7 @@ https://github.com/dilara444/TechLabsDUS_WineNot.git
 
 ## Objective:
 
-Our journey startet first with a dataset of physiochemical quality description and prediction of red wines in the south of europe, which we had to dismiss due to the comlexity of the dataset. We wanted to combine this with another dataset, the wine review dataset (mentioned below), but concluded that it would be better to continue with this one instead. The main reason was, that we could analyze more with the other dataset and had more valiables to research on. This allowed us to explore our creativity in our skills and even try new approaches to begin with. 
+Our journey startet first with a dataset of physiochemical quality description and prediction of red wines in the south of europe, which we had to dismiss due to the complexity of the dataset. We wanted to combine this with another dataset, the wine review dataset (mentioned below), but concluded that it would be better to continue with this one instead. The main reason was, that we could analyze more with the other dataset and had more valiables to research on. This allowed us to explore our creativity in our skills and even try new approaches to begin with. 
 
 We've started to work on the wine reviews dataset to uncover insights about wine quality, regional preferences, and pricing trends. It helped us to build a deeper understanding on which characteristics define a wine as high-quality and tasty. Therefore, we visualizated various factors that distinguish corresponding wine characteristics. 
 
@@ -33,14 +33,22 @@ From there for our analysis we took Country, Description, Points, Price, and Var
 - Data visualization techniques (plots, mapping, wordcloud).
 - In most plots we consider best wines to have points >= 95.
 - The worst wines presented in this dataset have points >= 80 and <=85.
-- For more detailed analysis of wine production in specific countries we take Europe as object of study, but for main plots we consider the whole world.
+- For more detailed analysis of wine characteristics in specific countries we take Europe as object of study, but for main plots we consider the whole world.
 
 ## Used Libraries
-- Pandas
+#### Pandas
+- Purpose: Pandas is a powerful data manipulation library that provides data structures (such as DataFrames and Series) for efficient handling of structured data. It is widely used for data cleaning, transformation, and analysis.
+- Usage Example: You can load data from various sources (CSV files, databases, etc.) into a Pandas DataFrame, perform operations like filtering, aggregation, and join tables, and then visualize or analyze the data.
   > import pandas as pd
-- Geopandas
+  
+#### Geopandas
+- Purpose: Geopandas extends Pandas to handle geospatial data. It allows you to work with geographic shapes (e.g., polygons, points, lines) and perform spatial operations (e.g., spatial joins, buffering).
+- Usage Example: You can read shapefiles, GeoJSON files, or other geospatial formats using Geopandas, manipulate the data, and create maps or analyze spatial relationships.
   > import geopandas as gpd
-- Matplotlib
+
+#### Matplotlib
+- Purpose: Matplotlib is a versatile plotting library for creating static, animated, or interactive visualizations. It provides a wide range of customizable plots (line plots, scatter plots, bar charts, etc.).
+- Usage Example: You can use Matplotlib to create histograms, scatter plots, heatmaps, and more. The provided code snippet imports necessary modules and sets up the plotting environment.
   > import matplotlib.pyplot as plt
   
   > from matplotlib.colors import Normalize
@@ -48,11 +56,20 @@ From there for our analysis we took Country, Description, Points, Price, and Var
   > from matplotlib import cm
   
   > import matplotlib.patches as mpatches
-- Numpy
+
+#### Numpy
+- Purpose: Numpy is a fundamental library for numerical computing in Python. It provides support for large, multi-dimensional arrays and matrices, along with mathematical functions.
+- Usage Example: Numpy is essential for scientific computing, linear algebra, and statistical operations. It’s commonly used for array manipulation and mathematical computations.
   > import numpy as np
-- Seaborn
+
+#### Seaborn
+- Purpose: Seaborn is a statistical data visualization library built on top of Matplotlib. It simplifies creating attractive and informative statistical plots.
+- Usage Example: Seaborn can generate beautiful visualizations for exploring relationships between variables, distribution plots, and regression plots.
   > import seaborn as sns
-- SciPy
+
+#### SciPy
+- Purpose: SciPy is an ecosystem of libraries for scientific and technical computing. It includes modules for optimization, integration, interpolation, and statistical functions.
+- Usage Example: You can use SciPy for advanced statistical analysis, hypothesis testing, and solving mathematical problems. The provided code snippet installs SciPy and imports relevant functions.
   > import sys
   
   > !{sys.executable} -m pip install scipy
@@ -61,7 +78,9 @@ From there for our analysis we took Country, Description, Points, Price, and Var
   
   > from scipy import stats
   
-- Wordcloud
+#### Wordcloud
+- Purpose: Wordcloud is a library for creating word clouds, which visually represent the frequency of words in a text corpus.
+- Usage Example: Given a collection of text data (e.g., reviews, articles), you can generate word clouds to highlight common terms or themes.
   > from wordcloud import WordCloud
 
 ## Expected Outcome
