@@ -27,6 +27,7 @@ For more detailed analysis of wine production in specific countries we take Euro
 
 ## Used Libraries
 - Pandas
+- Geopandas
 - Matplotlib
 - Numpy
 - Seaborn
