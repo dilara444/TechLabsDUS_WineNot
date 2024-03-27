@@ -37,18 +37,25 @@ From there for our analysis we took Country, Description, Points, Price, and Var
 
 ## Used Libraries
 - Pandas
+  > import pandas as pd
 - Geopandas
+  > import geopandas as gpd
 - Matplotlib
+  > import matplotlib.pyplot as plt
+  > from matplotlib.colors import Normalize
+  > from matplotlib import cm
+  > import matplotlib.patches as mpatches
 - Numpy
+  > import numpy as np
 - Seaborn
+  > import seaborn as sns
 - SciPy
+  > import sys
+  > !{sys.executable} -m pip install scipy
+  > from scipy.stats import kurtosis, skew
+  > from scipy import stats
 - Wordcloud
-- 
-#SciPy: A scientific computing package for Python
-Documentation is available in the docstrings and
-online at https://docs.scipy.org.
-
-
+  > from wordcloud import WordCloud
 
 ## Expected Outcome
 - Insights into wine preferences and market peculiarities for wine producers and distributors.
