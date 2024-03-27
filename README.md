@@ -10,8 +10,8 @@ We use Wine Reviews Data
 > https://www.kaggle.com/datasets/zynicide/wine-reviews
 
 From there for our analysis we take Country, Description, Points, Price, and Variety as main variables of interest.
-In most plots we consider best wines to have mean points >= 95.
-The worst wines presented in this dataset have mean points >= 80 and <=85.
+In most plots we consider best wines to have points >= 95.
+The worst wines presented in this dataset have points >= 80 and <=85.
 For more detailed analysis of wine production in specific countries we take Europe as object of study, but for main plots we consider the whole world.
 
 ## Goals
@@ -24,6 +24,20 @@ For more detailed analysis of wine production in specific countries we take Euro
 - Exploratory data analysis (EDA) to understand the structure and patterns in the data.
 - Statistical analysis to uncover relationships and correlations between price and points.
 - Data visualization techniques (plots, mapping, wordcloud).
+
+## Used Libraries
+- Pandas
+- Matplotlib
+- Numpy
+- Seaborn
+- SciPy
+- Wordcloud
+- 
+#SciPy: A scientific computing package for Python
+Documentation is available in the docstrings and
+online at https://docs.scipy.org.
+
+
 
 ## Expected Outcome
 - Insights into wine preferences and market peculiarities for wine producers and distributors.
