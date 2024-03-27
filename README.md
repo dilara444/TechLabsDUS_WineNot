@@ -29,6 +29,7 @@ From there for our analysis we took Country, Description, Points, Price, and Var
 
 ## Approach
 - Exploratory data analysis (EDA) to understand the structure and patterns in the data.
+- Various approaches will be implemented to demonstrate the connections and outstanding characteristics for some wine types.
 - Statistical analysis to uncover relationships and correlations between price and points.
 - Data visualization techniques (plots, mapping, wordcloud).
 - In most plots we consider best wines to have points >= 95.
