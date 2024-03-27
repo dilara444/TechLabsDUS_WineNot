@@ -42,8 +42,11 @@ From there for our analysis we took Country, Description, Points, Price, and Var
   > import geopandas as gpd
 - Matplotlib
   > import matplotlib.pyplot as plt
+  
   > from matplotlib.colors import Normalize
+  
   > from matplotlib import cm
+  
   > import matplotlib.patches as mpatches
 - Numpy
   > import numpy as np
@@ -51,9 +54,13 @@ From there for our analysis we took Country, Description, Points, Price, and Var
   > import seaborn as sns
 - SciPy
   > import sys
+  
   > !{sys.executable} -m pip install scipy
+  
   > from scipy.stats import kurtosis, skew
+  
   > from scipy import stats
+  
 - Wordcloud
   > from wordcloud import WordCloud
 
