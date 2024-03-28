@@ -9,9 +9,9 @@ https://github.com/dilara444/TechLabsDUS_WineNot.git
 
 ## Objective:
 
-Our journey startet first with a dataset of physiochemical quality description and prediction of red wines in the south of europe, which we had to dismiss due to the complexity of the dataset. We wanted to combine this with another dataset, the wine review dataset (mentioned below), but concluded that it would be better to continue with this one instead. The main reason was, that we could analyze more with the other dataset and had more valiables to research on. This allowed us to explore our creativity in our skills and even try new approaches to begin with. 
+Our journey startet first with a dataset of physiochemical quality description and prediction of red wines in portugal, which we had to dismiss due to the complexity of the dataset. We initally wanted to combine this with another dataset, the wine review dataset (mentioned below), but concluded that it would be better to continue with this one only, instead. The main reason was, that we could analyze more with the other dataset and had more variables to research on. This allowed us to explore our creativity in our skills and even try new approaches to begin with. 
 
-We've started to work on the wine reviews dataset to uncover insights about wine quality, regional preferences, and pricing trends. It helped us to build a deeper understanding on which characteristics define a wine as high-quality and tasty. Therefore, we visualizated various factors that distinguish corresponding wine characteristics. 
+We've started to work on the wine reviews dataset to uncover insights about wine quality, regional preferences, and pricing trends. It helped us to build a deeper understanding on which characteristics define a wine as high-quality and tasty and many other factors given in this dataset. Therefore, we visualizated various factors that distinguish corresponding wine characteristics. 
 
 ## Project Scope
 We use Wine Reviews Data 
@@ -21,20 +21,26 @@ The scope of this project was to get an inside about some characteristics of dif
 From there for our analysis we took Country, Description, Points, Price, and Variety as main variables of interest. This dataset showed interests of different insides to wine types from different countries. Besides the very obvious connection between wine origin and respective rating of this, other characteristics such as taste desription and price did contribute to a deeper understanding of both economical and physiological composition of wines. 
 
 ## Goals
+After getting familiar with the project, we defined our goals for this dataset as following:
 - Identifying popular wine varieties and their characteristics.
 - Analyzing the relationship between wine quality ratings and prices.
 - Assessing the extent to which the price correlates with the quality of the wine.
 - Examining wine quality for each country and defining locations of best wines.
-- Understanding how wine description differes depending on good or (relatively) bad wines are observed.
+- Understanding how wine descriptions depending on good or (relatively) bad wines are observed.
 
 ## Approach
+
+When starting newly to code, the amount of numbers and variables in a dataset can be pretty overwhelming. Allow yourself to look into the dataset first before running a few commands. The understanding of certain structures in a dataset helps to form first ideas of analysis and connect some crucial points. 
+With this being said, we applied following approaches after we got familiar with given data and gathered ideas of what could be possible:
+
+
 - Exploratory data analysis (EDA) to understand the structure and patterns in the data.
-- Various approaches will be implemented to demonstrate the connections and outstanding characteristics for some wine types.
+- Various approaches were implemented to demonstrate the connections and outstanding characteristics for some wine types.
 - Statistical analysis to uncover relationships and correlations between price and points.
-- Data visualization techniques (plots, mapping, wordcloud).
+- Data visualization techniques (plots, mapping, wordcloud) to underline certain connections and relations.
 - In most plots we consider best wines to have points >= 95.
 - The worst wines presented in this dataset have points >= 80 and <=85.
-- For more detailed analysis of wine characteristics in specific countries we take Europe as object of study, but for main plots we consider the whole world.
+- For more detailed analysis of wine characteristics in specific countries we took Europe as object of study, but for main plots we considered the wine data of the whole world (as far as the dataset allowed us to do so).
 
 ## Used Libraries
 #### Pandas
