@@ -23,6 +23,7 @@ From there for our analysis we took Country, Description, Points, Price, and Var
 ## Goals
 - Identifying popular wine varieties and their characteristics.
 - Analyzing the relationship between wine quality ratings and prices.
+- Assessing the extent to which the price correlates with the quality of the wine."
 - Examining wine quality for each country and defining locations of best wines.
 - Understanding how wine description differes depending on good or (relatively) bad wines are observed.
 
