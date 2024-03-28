@@ -77,13 +77,13 @@ We initially generated and collected our initial thoughts and ideas. Subsequentl
 
 #### Seaborn
 - Purpose: Seaborn is a statistical data visualization library built on top of Matplotlib. It simplifies creating attractive and informative statistical plots.
-- Usage: For data vizualisation besindes basic histograms, barplots etc, we used Seaborn. It can generate beautiful visualizations for exploring relationships between variables, distribution plots, and regression plots.
+- Usage: For data vizualisation besides basic histograms, barplots etc, we used Seaborn. It can generate beautiful visualizations for exploring relationships between variables, distribution plots, and regression plots.
 
   > import seaborn as sns
 
 #### SciPy
 - Purpose: SciPy is an ecosystem of libraries for scientific and technical computing. It includes modules for optimization, integration, interpolation, and statistical functions.
-- Usage Example: You can use SciPy for advanced statistical analysis, hypothesis testing, and solving mathematical problems. The provided code snippet installs SciPy and imports relevant functions.
+- Usage: SciPy was used for advanced statistical analysis and solving mathematical problems in this project. The provided code snippet installs SciPy and imports relevant functions:
 
    > import sys
   
@@ -93,9 +93,10 @@ We initially generated and collected our initial thoughts and ideas. Subsequentl
   
   > from scipy import stats
   
-#### Wordcloud
-- Purpose: Wordcloud is a library for creating word clouds, which visually represent the frequency of words in a text corpus.
-- Usage Example: Given a collection of text data (e.g., reviews, articles), you can generate word clouds to highlight common terms or themes.
+#### Word Cloud
+- Purpose: Word Cloud is a library for creating word clouds, which visually represent the frequency of words in a text corpus.
+- Usage: Given a collection of text data (e.g., reviews, articles), we generated word clouds to highlight common terms or themes. To underline certain taste decriptions and varieties, we excluded unneccessary words first, before exploring the function of Word Cloud.
+  
   > from wordcloud import WordCloud
 
 ## Summary
