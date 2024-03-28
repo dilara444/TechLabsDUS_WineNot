@@ -1,17 +1,21 @@
 # TechLabsDUS_WineNot?
-Nov2023-March2024
+Nov2023-March2024; Data Science; Samuel Bohn, Ekaterina Ponomareva, Dilara Bursa
 
 Welcome to our 'WineNot?' GitHub Repository! This project serves as an educational resource for individuals interested in learning fundamental coding concepts using Python. Whether you’re a beginner or an experienced programmer, this repository aims to provide clarity on some data science structures and strategies. Therefore, an implemented dataset was selected, to help unterstanding and improving. 
+
 > GitHub Link
 https://github.com/dilara444/TechLabsDUS_WineNot.git
+
+> Notebook:
+WineNot?
 
 > For inspiration and motivation: https://open.spotify.com/track/4uOKFydzAejjSFqYbv1XPt?si=6a240536f0de4cdc
 
 ## Objective:
 
-Our journey startet first with a dataset of physiochemical quality description and prediction of red wines in portugal, which we had to dismiss due to the complexity of the dataset. We initally wanted to combine this with another dataset, the wine review dataset (mentioned below), but concluded that it would be better to continue with this one only, instead. The main reason was, that we could analyze more with the other dataset and had more variables to research on. This allowed us to explore our creativity in our skills and even try new approaches to begin with. 
+Our journey began with a dataset focused on the physiochemical quality description and prediction of red wines in Portugal. However, due to its complexity, we decided to set it aside. Initially, we had planned to merge it with another dataset—the wine review dataset mentioned below. Upon further consideration, we opted to proceed with the second dataset alone. The primary reason for this choice was that this dataset provided more variables for research and analysis. 
 
-We've started to work on the wine reviews dataset to uncover insights about wine quality, regional preferences, and pricing trends. It helped us to build a deeper understanding on which characteristics define a wine as high-quality and tasty and many other factors given in this dataset. Therefore, we visualizated various factors that distinguish corresponding wine characteristics. 
+We've started to work on the wine reviews dataset to uncover insights about wine quality, regional preferences, and pricing trends. It helped us to build a deeper understanding on which characteristics define a wine as high-quality and tasty and many other factors given in this dataset. Therefore, we visualizated various factors that distinguish corresponding wine characteristics. By focusing on the dataset, we were able to explore our creativity and experiment with new approaches.
 
 ## Project Scope
 We use Wine Reviews Data 
@@ -117,7 +121,7 @@ Our exploration journey yielded valuable insights and contributions to the world
 
 Besides our work so far, we want to raise awareness about predictive possibilities for this dataset. Looking ahead, we consider predictions related to the connection between price, taste, and wine ratings. By leveraging machine learning and statistical models, understanding and guidence of future research can be enhanced.
 
-#### Learning and Growth:
+### Learning and Growth:
 Our journey taught us to apply both fundamental and advanced methods to understand datasets thoroughly. Moreover, our exploration of various libraries enriched our plotting skills and fueled our creative endeavors.
 
 In summary, “WineNot?” encapsulated our pursuit of knowledge, problem-solving progress, and the joy of unraveling wine-related insights. 
