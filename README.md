@@ -88,21 +88,25 @@ We initially generated and collected our initial thoughts and ideas. Subsequentl
 - Usage Example: Given a collection of text data (e.g., reviews, articles), you can generate word clouds to highlight common terms or themes.
   > from wordcloud import WordCloud
 
-## Summary
-
-Our code in the notebook "WineNot?" contains the results of what we achieved by analyzing and applying our knowledge. With gathered ideas the direction of the analysis was predestined and opened even more doors to our creativity. Whilest solving one problem we developed other ideas and expanded our initial questions towards this dataset, which resulted in different plotting types and other connections between the characteristics of wine.
-We plotted heatmaps, to visualize price ranges for given wine varieties in the world and focussed on europe to explore them in deeper detail. 
-As we began to do so, we recognized the irreguality of names given for the countries compared to defined country names in the library 'geopandas'. So, besides our ability to focus our interests, we managed to eliminate problems in parallel. 
-
-Additionally we've considered the obvious connection between quality and prices of wines and expanded our analysis in this area by including the various wine types. To be able to make a statement between these connections, we seperated this analysis for certain countries. 
-Since each country showed different characteristics for wine, it was important to divide the entities by country.
-
-Overall we learned applying basic and advances methods to understand a dataset and conclude statement out of our results. Certain libraries broadened our knowledge regarding plotting and even contributed to our creativity. 
-
 ## Expected Outcome
 - Insights into wine preferences and market peculiarities for wine producers and distributors.
 - Recommendations for consumers based on wine price, quality, taste, and country characteristics.
 - Contribution to the broader wine community by sharing knowledge and insights gained from the analysis.
 - Analysis contributes to understanding of various connections between wine origin, taste, price and so much more.
-- For further analysis, predictions on the connection between price, taste and rating of wines can be considered. 
+- For further analysis, predictions on the connection between price, taste and rating of wines can be considered.
+
+## Summary
+#### Exploring Wine Reviews: Insights and Discoveries
+In our notebook titled “WineNot?”, we present the culmination of our analytical journey. By harnessing our collective ideas, we steered our analysis toward meaningful directions, unlocking new avenues for creativity. As we solved one challenge, it sparked additional inquiries, leading us to explore diverse plotting techniques and uncover connections within the realm of wine characteristics.
+Our Key Achievements were:
+
+- Heatmaps for Global Wine Prices: We visualized price ranges for various wine varieties worldwide, with a special focus on Europe. Delving deeper, we encountered an interesting issue: the irregularity of country names compared to the predefined list in the ‘geopandas’ library. Our ability to address this discrepancy while maintaining our focus was a dual victory.
+- Quality-Price Nexus: Recognizing the inherent link between wine quality and prices, we expanded our analysis to include different wine types. To draw meaningful conclusions, we segmented this investigation by specific countries. Each nation revealed distinct wine characteristics, emphasizing the importance of country-based segmentation.
+
+#### Learning and Growth:
+Our journey taught us to apply both fundamental and advanced methods to understand datasets thoroughly. Moreover, our exploration of various libraries enriched our plotting skills and fueled our creative endeavors.
+
+In summary, “WineNot?” encapsulated our pursuit of knowledge, problem-solving prowess, and the joy of unraveling wine-related insights. 
+
+
 
