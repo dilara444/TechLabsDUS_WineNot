@@ -119,7 +119,7 @@ Our exploration journey yielded valuable insights and contributions to the world
 - Community Contribution: Sharing knowledge and insights gained from our analysis, we contribute to the broader wine community. By fostering dialogue and collaboration, we collectively elevate our understanding of this complex and delightful beverage.
 - Unraveling Connections: Our analysis contributes to the understanding of various connections between wine origin, taste, and price. From terroir effects to cultural influences, we delve into the intricate web that defines each bottle.
 
-Besides our work so far, we want to raise awareness about predictive possibilities for this dataset. Looking ahead, we consider predictions related to the connection between price, taste, and wine ratings. By leveraging machine learning and statistical models, understanding and guidence of future research can be enhanced.
+Besides our work so far, we want to raise awareness about predictive possibilities for this dataset. Looking ahead, we consider predictions related to the connection between price, taste, and wine ratings. By leveraging the knowledge and insights gained from this analysis, machine learning and statistical models, understanding and guidence of future research can be enhanced.
 
 ### Learning and Growth:
 Our journey taught us to apply both fundamental and advanced methods to understand datasets thoroughly. Moreover, our exploration of various libraries enriched our plotting skills and fueled our creative endeavors.
