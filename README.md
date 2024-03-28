@@ -88,6 +88,17 @@ We initially generated and collected our initial thoughts and ideas. Subsequentl
 - Usage Example: Given a collection of text data (e.g., reviews, articles), you can generate word clouds to highlight common terms or themes.
   > from wordcloud import WordCloud
 
+## Summary
+
+Our code in the notebook "WineNot?" contains the results of what we achieved by analyzing and applying our knowledge. With gathered ideas the direction of the analysis was predestined and opened even more doors to our creativity. Whilest solving one problem we developed other ideas and expanded our initial questions towards this dataset, which resulted in different plotting types and other connections between the characteristics of wine.
+We plotted heatmaps, to visualize price ranges for given wine varieties in the world and focussed on europe to explore them in deeper detail. 
+As we began to do so, we recognized the irreguality of names given for the countries compared to defined country names in the library 'geopandas'. So, besides our ability to focus our interests, we managed to eliminate problems in parallel. 
+
+Additionally we've considered the obvious connection between quality and prices of wines and expanded our analysis in this area by including the various wine types. To be able to make a statement between these connections, we seperated this analysis for certain countries. 
+Since each country showed different characteristics for wine, it was important to divide the entities by country.
+
+Overall we learned applying basic and advances methods to understand a dataset and conclude statement out of our results. Certain libraries broadened our knowledge regarding plotting and even contributed to our creativity. 
+
 ## Expected Outcome
 - Insights into wine preferences and market peculiarities for wine producers and distributors.
 - Recommendations for consumers based on wine price, quality, taste, and country characteristics.
