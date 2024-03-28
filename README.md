@@ -30,7 +30,7 @@ After getting familiar with the project, we defined our goals for this dataset a
 - Understanding how wine descriptions depending on good or (relatively) bad wines are observed.
 
 ## Approach
-The first thoughts and ideas were created and gathered. So the next step was to apply a few thigs we knew about plotting and actually using our knowledge in praxis. Whilest we did that, we recignized a point that could have caused confusion in our further ideas. Therefore, we changed the name description of some of the countries, which were not defined in the library 'geopandas'. The corrected dataset was then used as input for our analysis for which we applied following approaches:
+We initially generated and collected our initial thoughts and ideas. Subsequently, we proceeded to apply specific techniques related to plotting, putting our theoretical knowledge into practical use. During this process, we identified a potential source of confusion in our subsequent ideas. Consequently, we modified the country name descriptions for those regions not previously defined in the ‘geopandas’ library. The corrected dataset served as input for our analysis, where we employed the following approaches:
 
 - Exploratory data analysis (EDA) to understand the structure and patterns in the data.
 - Various approaches were implemented to demonstrate the connections and outstanding characteristics for some wine types.
