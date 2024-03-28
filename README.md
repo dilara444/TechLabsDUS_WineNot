@@ -98,13 +98,6 @@ We initially generated and collected our initial thoughts and ideas. Subsequentl
 - Usage Example: Given a collection of text data (e.g., reviews, articles), you can generate word clouds to highlight common terms or themes.
   > from wordcloud import WordCloud
 
-## Expected Outcome
-- Insights into wine preferences and market peculiarities for wine producers and distributors.
-- Recommendations for consumers based on wine price, quality, taste, and country characteristics.
-- Contribution to the broader wine community by sharing knowledge and insights gained from the analysis.
-- Analysis contributes to understanding of various connections between wine origin, taste, price and so much more.
-- For further analysis, predictions on the connection between price, taste and rating of wines can be considered.
-
 ## Summary
 #### Exploring Wine Reviews: Insights and Discoveries
 In our notebook titled “WineNot?”, we present the culmination of our analytical journey. By harnessing our collective ideas, we steered our analysis toward meaningful directions, unlocking new avenues for creativity. As we solved one challenge, it sparked additional inquiries, leading us to explore diverse plotting techniques and uncover connections within the realm of wine characteristics.
