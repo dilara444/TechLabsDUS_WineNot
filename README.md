@@ -22,7 +22,7 @@ We use Wine Reviews Data
 > https://www.kaggle.com/datasets/zynicide/wine-reviews
 
 The scope of this project was to get an insight about some characteristics of different wine types all over the world. 
-From there for our analysis we took Country, Description, Points, Price, and Variety as main variables of interest. This dataset showed interests of different insides to wine types from different countries. Besides the very obvious connection between wine origin and respective rating of this, other characteristics such as taste desription and price did contribute to a deeper understanding of both economical and physiological composition of wines. 
+From there for our analysis we took Country, Description, Points, Price, and Variety as main variables of interest. This dataset showed interests of different insights to wine types from different countries. Besides the very obvious connection between wine origin and respective rating of this, other characteristics such as taste description and price did contribute to a deeper understanding of both economical and physiological composition of wines. 
 
 ## Goals
 When starting newly to code, the amount of numbers and variables in a dataset can be pretty overwhelming. Allow yourself to look into the dataset first before running a few commands. The understanding of certain structures in a dataset helps to form first ideas of analysis and connect some crucial points. 
@@ -116,7 +116,7 @@ Our exploration journey yielded valuable insights and contributions to the world
 Besides our work so far, we want to raise awareness about predictive possibilities for this dataset. Looking ahead, we consider predictions related to the connection between price, taste, and wine ratings. By leveraging the knowledge and insights gained from this analysis, machine learning and statistical models, understanding and guidence of future research can be enhanced.
 
 ### Learning and Growth:
-Our journey taught us to apply both fundamental and advanced methods to understand datasets thoroughly. Moreover, our exploration of various libraries enriched our plotting skills and fueled our creative endeavors.
+Our journey taught us to apply both fundamental and advanced methods to understand datasets throughoutly. Moreover, our exploration of various libraries enriched our plotting skills and fueled our creative endeavors.
 
 In summary, “WineNot?” encapsulated our pursuit of knowledge, problem-solving progress, and the joy of unraveling wine-related insights. 
 
