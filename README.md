@@ -21,6 +21,7 @@ The scope of this project was to get an inside about some characteristics of dif
 From there for our analysis we took Country, Description, Points, Price, and Variety as main variables of interest. This dataset showed interests of different insides to wine types from different countries. Besides the very obvious connection between wine origin and respective rating of this, other characteristics such as taste desription and price did contribute to a deeper understanding of both economical and physiological composition of wines. 
 
 ## Goals
+When starting newly to code, the amount of numbers and variables in a dataset can be pretty overwhelming. Allow yourself to look into the dataset first before running a few commands. The understanding of certain structures in a dataset helps to form first ideas of analysis and connect some crucial points. 
 After getting familiar with the project, we defined our goals for this dataset as following:
 - Identifying popular wine varieties and their characteristics.
 - Analyzing the relationship between wine quality ratings and prices.
@@ -29,10 +30,7 @@ After getting familiar with the project, we defined our goals for this dataset a
 - Understanding how wine descriptions depending on good or (relatively) bad wines are observed.
 
 ## Approach
-
-When starting newly to code, the amount of numbers and variables in a dataset can be pretty overwhelming. Allow yourself to look into the dataset first before running a few commands. The understanding of certain structures in a dataset helps to form first ideas of analysis and connect some crucial points. 
-With this being said, we applied following approaches after we got familiar with given data and gathered ideas of what could be possible:
-
+We initially generated and collected our initial thoughts and ideas. Subsequently, we proceeded to apply specific techniques related to plotting, putting our theoretical knowledge into practical use. During this process, we identified a potential source of confusion in our subsequent ideas. Consequently, we modified the country name descriptions for those regions not previously defined in the ‘geopandas’ library. The corrected dataset served as input for our analysis, where we employed the following approaches:
 
 - Exploratory data analysis (EDA) to understand the structure and patterns in the data.
 - Various approaches were implemented to demonstrate the connections and outstanding characteristics for some wine types.
